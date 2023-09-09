@@ -1,4 +1,4 @@
-const { run, uri, client } = require("./db");
+const { run } = require("./db");
 //Express
 const express = require("express");
 const app = express();
