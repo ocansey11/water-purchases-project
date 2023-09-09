@@ -1,0 +1,19 @@
+{
+  "name": "water-purchase-project",
+  "version": "1.0.0",
+  "description": "**1. Install Node.js and npm:**\r Make sure you have Node.js and npm (Node Package Manager) installed on your system. You can download them from the official Node.js website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.8.1",
+    "nodemon": "^3.0.1",
+    "uuid": "^9.0.0"
+  }
+}
